@@ -7,8 +7,8 @@ const int motorB1 = 6;
 const int motorB2 = 7;
 
 // Define BLE Service and Characteristic
-BLEService gamePadService("19B10000-E8F2-537E-4F6C-D104768A1214");  // Random UUID for service
-BLEByteCharacteristic gamePadCharacteristic("19B10001-E8F2-537E-4F6C-D104768A1214", BLERead | BLEWrite);
+BLEService gamePadService("input random UUID");  // Random UUID for service
+BLEByteCharacteristic gamePadCharacteristic("copy of UUID", BLERead | BLEWrite);
 
 void setup() {
   Serial.begin(9600);
