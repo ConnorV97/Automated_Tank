@@ -11,4 +11,5 @@ List of Materials (All parts can be found on Amazon or through Arduino )
 *  2x DC 3-6V Motor Wheels 
 *  1x HC-SR04 Sonar Sensor 
 *  2 SG90 Servo Motors
+*  4x 18650 Li-Ion Batteries (Rechargable) 
 *  300 grams of grey PLA filament
