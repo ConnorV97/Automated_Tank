@@ -1,6 +1,6 @@
 # Automated_Tank
 
-Arduino Controlled and driven tank with automated target acqusition and firing. The tank utilizes a sonar sensor to determine the target location, after target has been acquired it sends a signal to the firing board to launch a projectile by triggering a servo to flick the firing mechanism. 
+Arduino controlled tank with automated target acqusition and firing. The tank utilizes a sonar sensor to determine the target location, after target has been acquired it sends a signal to the firing board to launch a projectile by triggering a servo to flick the firing mechanism. 
 
 This tank was built with less than $150 and with 300 grams of PLA 3D printing material provided by the University of Tennessee Knoxville. 
 
