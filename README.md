@@ -13,3 +13,5 @@ List of Materials (All parts can be found on Amazon or through Arduino )
 *  2 SG90 Servo Motors
 *  4x 18650 Li-Ion Batteries (Rechargable) 
 *  300 grams of grey PLA filament
+
+<img width="327" height="245" alt="image" src="https://github.com/user-attachments/assets/50b7e0ae-4808-49a0-a9b8-06a66d1c685a" />
