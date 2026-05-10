@@ -4,7 +4,7 @@ Arduino Controlled and driven tank with automated target acqusition and firing. 
 
 This tank was built with less than $150 and with 300 grams of PLA 3D printing material provided by the University of Tennessee Knoxville. 
 
-The tank chassis design was inspired by: Drogerdy - Raspberry Pi Controlled Tank Bot (link: https://www.thingiverse.com/thing:652851)
+The tank chassis design was inspired by: Drogerdy - Raspberry Pi Controlled Tank Bot (link: https://www.thingiverse.com/thing:652851). CTL Files can be found at the LINK.
 
 List of Materials (All parts can be found on Amazon or through Arduino ) 
 *  2x Arduino Uno 4 
